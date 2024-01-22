@@ -66,6 +66,7 @@ function reiniciarJogo() {
 }
 
 // Atividade do curso Git e GitHub - realizar mudanças e subir para o repositório remoto
+// Atividade do curso - realizar commits pela IDE
 
 
 
