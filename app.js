@@ -65,6 +65,8 @@ function reiniciarJogo() {
     document.getElementById('reiniciar').setAttribute('disabled', true)
 }
 
+// Atividade do curso Git e GitHub - realizar mudanças e subir para o repositório remoto
+
 
 
 
